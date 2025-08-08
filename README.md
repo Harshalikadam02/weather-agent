@@ -36,16 +36,8 @@ It follows a structured decision-making process
 It is powered by prompt engineering for better control
 
 
-Output Flow:
-[User Query] 
-     ↓
-[Plan] → Decide what tool to use
-     ↓
-[Action] → Call the appropriate function
-     ↓
-[Observe] → Process API response
-     ↓
-[Output] → Give final answer + reasoning
+## 📊 Agent Workflow Diagram
+![Agent Workflow](https://github.com/Harshalikadam02/weather-agent/blob/main/agent%20flow.png)
 Made with ❤️ by Harshali Kadam
 Bringing intelligence and transparency to AI-powered assistants.
 
